@@ -1,0 +1,2952 @@
+[
+  {
+    "id": "cat-escape",
+    "thumbnail": "https://8bitnova.github.io/images/300.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "farm-tiles-harvest",
+    "thumbnail": "https://8bitnova.github.io/images/301.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "koko-loco-block-blast",
+    "thumbnail": "https://8bitnova.github.io/images/302.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "robbie-stand-on-the-right-color",
+    "thumbnail": "https://8bitnova.github.io/images/303.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "super-tank-wrestle",
+    "thumbnail": "https://8bitnova.github.io/images/304.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "furry-wedding-proposal",
+    "thumbnail": "https://8bitnova.github.io/images/305.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "barbee-black-friday-fashion",
+    "thumbnail": "https://8bitnova.github.io/images/306.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mojicon-winter-connect",
+    "thumbnail": "https://8bitnova.github.io/images/307.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "kiss-o-neck",
+    "thumbnail": "https://8bitnova.github.io/images/308.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "radical-rappelling",
+    "thumbnail": "https://8bitnova.github.io/images/309.webp",
+    "genre": "Sports, Strategy"
+  },
+  {
+    "id": "bus-color-jam",
+    "thumbnail": "https://8bitnova.github.io/images/310.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dino-idle-park",
+    "thumbnail": "https://8bitnova.github.io/images/311.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "lion-family-sim-online",
+    "thumbnail": "https://8bitnova.github.io/images/312.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "hoard-master-online",
+    "thumbnail": "https://8bitnova.github.io/images/313.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "epic-stunts-pvp-3d",
+    "thumbnail": "https://8bitnova.github.io/images/314.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "basketball-fever",
+    "thumbnail": "https://8bitnova.github.io/images/315.webp",
+    "genre": "Basketball, Casual"
+  },
+  {
+    "id": "wave-dash-geometry-arrow",
+    "thumbnail": "https://8bitnova.github.io/images/316.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "color-sand-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/317.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "blast-cubes",
+    "thumbnail": "https://8bitnova.github.io/images/318.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "card-solitaire-word-game",
+    "thumbnail": "https://8bitnova.github.io/images/319.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "neon-gravity",
+    "thumbnail": "https://8bitnova.github.io/images/320.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "mma-super-fight",
+    "thumbnail": "https://8bitnova.github.io/images/321.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "brainrot-mega-parkour",
+    "thumbnail": "https://8bitnova.github.io/images/322.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "grunge-chic-alt-fashion",
+    "thumbnail": "https://8bitnova.github.io/images/323.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "screw-spin",
+    "thumbnail": "https://8bitnova.github.io/images/324.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "running-in-foam",
+    "thumbnail": "https://8bitnova.github.io/images/325.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "labuba-halloween-infestation",
+    "thumbnail": "https://8bitnova.github.io/images/326.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "darts-jam",
+    "thumbnail": "https://8bitnova.github.io/images/327.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "void-orbit",
+    "thumbnail": "https://8bitnova.github.io/images/328.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "parking-driver",
+    "thumbnail": "https://8bitnova.github.io/images/329.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "animal-blocks",
+    "thumbnail": "https://8bitnova.github.io/images/330.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "bubble-piggies",
+    "thumbnail": "https://8bitnova.github.io/images/331.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "pool-master",
+    "thumbnail": "https://8bitnova.github.io/images/332.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "circuit-master",
+    "thumbnail": "https://8bitnova.github.io/images/333.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stickman-adventure",
+    "thumbnail": "https://8bitnova.github.io/images/334.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "arcade-gp",
+    "thumbnail": "https://8bitnova.github.io/images/335.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "woods-of-nevia-forest-survival",
+    "thumbnail": "https://8bitnova.github.io/images/336.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "wood-screw-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/337.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-sky",
+    "thumbnail": "https://8bitnova.github.io/images/338.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "park-me-draw-path",
+    "thumbnail": "https://8bitnova.github.io/images/339.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "blue-vs-red",
+    "thumbnail": "https://8bitnova.github.io/images/340.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "underwater-survival",
+    "thumbnail": "https://8bitnova.github.io/images/341.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "car-vs-zombies",
+    "thumbnail": "https://8bitnova.github.io/images/342.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "idle-game-prison-life",
+    "thumbnail": "https://8bitnova.github.io/images/343.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "save-little-red-hood",
+    "thumbnail": "https://8bitnova.github.io/images/344.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "hexa-stack-christmas",
+    "thumbnail": "https://8bitnova.github.io/images/345.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "capybara-suika",
+    "thumbnail": "https://8bitnova.github.io/images/346.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "itilezen-sort-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/347.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "gift-merge-santa-world-tour",
+    "thumbnail": "https://8bitnova.github.io/images/348.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "fix-da-brainrot",
+    "thumbnail": "https://8bitnova.github.io/images/349.webp",
+    "genre": "Jigsaw"
+  },
+  {
+    "id": "match-factory",
+    "thumbnail": "https://8bitnova.github.io/images/350.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "the-flowers-merge-and-sell-bouquets",
+    "thumbnail": "https://8bitnova.github.io/images/351.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "burger-catch",
+    "thumbnail": "https://8bitnova.github.io/images/352.webp",
+    "genre": "Cooking, Casual"
+  },
+  {
+    "id": "block-blaster-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/353.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "merge-tower-hero",
+    "thumbnail": "https://8bitnova.github.io/images/354.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "flower-shop",
+    "thumbnail": "https://8bitnova.github.io/images/355.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "island-expander",
+    "thumbnail": "https://8bitnova.github.io/images/356.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "tank-challenge",
+    "thumbnail": "https://8bitnova.github.io/images/357.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "suitable-outfit-dressup",
+    "thumbnail": "https://8bitnova.github.io/images/358.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "dusty-cat",
+    "thumbnail": "https://8bitnova.github.io/images/359.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stalker-strike",
+    "thumbnail": "https://8bitnova.github.io/images/360.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "obby-highest-jump-ever",
+    "thumbnail": "https://8bitnova.github.io/images/361.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "perfect-tidy",
+    "thumbnail": "https://8bitnova.github.io/images/362.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "tropical-match-2",
+    "thumbnail": "https://8bitnova.github.io/images/363.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "crowd-evolution",
+    "thumbnail": "https://8bitnova.github.io/images/364.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "red-stickman-vs-monster-school",
+    "thumbnail": "https://8bitnova.github.io/images/365.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "galaxy-carnage",
+    "thumbnail": "https://8bitnova.github.io/images/366.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "rope-rescue-unique-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/367.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mahjong-triple-3d-tile-match",
+    "thumbnail": "https://8bitnova.github.io/images/368.webp",
+    "genre": "Mahjong & Connect, Match-3"
+  },
+  {
+    "id": "grandma-with-machine-gun-apocalypsis",
+    "thumbnail": "https://8bitnova.github.io/images/369.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "goodeluxe",
+    "thumbnail": "https://8bitnova.github.io/images/370.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "car-paint",
+    "thumbnail": "https://8bitnova.github.io/images/371.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cunning-ginger",
+    "thumbnail": "https://8bitnova.github.io/images/372.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hidden-object-farm-adventure",
+    "thumbnail": "https://8bitnova.github.io/images/373.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "jigsolitaire",
+    "thumbnail": "https://8bitnova.github.io/images/374.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "shelter-security-gatekeeper-simulator",
+    "thumbnail": "https://8bitnova.github.io/images/375.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "dynamons-12",
+    "thumbnail": "https://8bitnova.github.io/images/376.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "colorwarsio-conquest-game",
+    "thumbnail": "https://8bitnova.github.io/images/377.webp",
+    "genre": ".IO, Strategy"
+  },
+  {
+    "id": "metal-bay-top-blade-power",
+    "thumbnail": "https://8bitnova.github.io/images/378.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "the-roman-empire-colosseum",
+    "thumbnail": "https://8bitnova.github.io/images/379.webp",
+    "genre": "Battle, Simulation"
+  },
+  {
+    "id": "catch-the-pig",
+    "thumbnail": "https://8bitnova.github.io/images/380.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "football-rush-3d",
+    "thumbnail": "https://8bitnova.github.io/images/381.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "angry-flappy",
+    "thumbnail": "https://8bitnova.github.io/images/382.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "space-pin-master-pull-pin-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/383.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "thumbpinball",
+    "thumbnail": "https://8bitnova.github.io/images/384.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hexa-stack",
+    "thumbnail": "https://8bitnova.github.io/images/385.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "one-line",
+    "thumbnail": "https://8bitnova.github.io/images/386.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dinosaur-shifting-run",
+    "thumbnail": "https://8bitnova.github.io/images/387.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "colorsforms",
+    "thumbnail": "https://8bitnova.github.io/images/388.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "max-crusher-crazy-destruction-and-car-crashes",
+    "thumbnail": "https://8bitnova.github.io/images/389.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "marathon-race-io",
+    "thumbnail": "https://8bitnova.github.io/images/390.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "sprunki-3d-shooter",
+    "thumbnail": "https://8bitnova.github.io/images/391.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "furry-kung-fu",
+    "thumbnail": "https://8bitnova.github.io/images/392.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "pato-vs-cops",
+    "thumbnail": "https://8bitnova.github.io/images/393.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "coffee-color-blocks",
+    "thumbnail": "https://8bitnova.github.io/images/394.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hide-me",
+    "thumbnail": "https://8bitnova.github.io/images/395.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "money-ping-pong",
+    "thumbnail": "https://8bitnova.github.io/images/396.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "connect-2-cars",
+    "thumbnail": "https://8bitnova.github.io/images/397.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "snake-puzzle-3d",
+    "thumbnail": "https://8bitnova.github.io/images/398.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "magic-bubbles",
+    "thumbnail": "https://8bitnova.github.io/images/399.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "asmr-girl-livestream-mukbang",
+    "thumbnail": "https://8bitnova.github.io/images/400.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "merge-master",
+    "thumbnail": "https://8bitnova.github.io/images/401.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "jelly-run-2048",
+    "thumbnail": "https://8bitnova.github.io/images/402.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "find-sort-match",
+    "thumbnail": "https://8bitnova.github.io/images/403.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "100-doors-puzzle-box",
+    "thumbnail": "https://8bitnova.github.io/images/404.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dolphin-couple-underwater-dress-up",
+    "thumbnail": "https://8bitnova.github.io/images/405.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "fix-the-hoof",
+    "thumbnail": "https://8bitnova.github.io/images/406.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "code-runner-binary-confusion",
+    "thumbnail": "https://8bitnova.github.io/images/407.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "mine-fps-shooter-noob-arena",
+    "thumbnail": "https://8bitnova.github.io/images/408.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "chill-girl-clicker",
+    "thumbnail": "https://8bitnova.github.io/images/409.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "my-cake-shop-bake-serve",
+    "thumbnail": "https://8bitnova.github.io/images/410.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "animal-block-pop-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/411.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "shelf-sweep",
+    "thumbnail": "https://8bitnova.github.io/images/412.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "enchanted-mahjong-saga",
+    "thumbnail": "https://8bitnova.github.io/images/413.webp",
+    "genre": "Agility, Mahjong & Connect"
+  },
+  {
+    "id": "cube-stack-2048",
+    "thumbnail": "https://8bitnova.github.io/images/414.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "gravity-speed-run",
+    "thumbnail": "https://8bitnova.github.io/images/415.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dragon-hunter",
+    "thumbnail": "https://8bitnova.github.io/images/416.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "unblock-ball-slide-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/417.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "noob-legends-dungeon-adventures",
+    "thumbnail": "https://8bitnova.github.io/images/418.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "screw-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/419.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "robot-terminator-t-rex",
+    "thumbnail": "https://8bitnova.github.io/images/420.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "dynamons-connect",
+    "thumbnail": "https://8bitnova.github.io/images/421.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "world-z-defense-zombie-defense",
+    "thumbnail": "https://8bitnova.github.io/images/422.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "finger-soccer-tournament",
+    "thumbnail": "https://8bitnova.github.io/images/423.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "battle-of-pirate-caribbean-battle",
+    "thumbnail": "https://8bitnova.github.io/images/424.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "draw-bridge-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/425.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mineblocks-3d-maze",
+    "thumbnail": "https://8bitnova.github.io/images/426.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "doge-bubble",
+    "thumbnail": "https://8bitnova.github.io/images/427.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "jumper",
+    "thumbnail": "https://8bitnova.github.io/images/428.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "merge-squares",
+    "thumbnail": "https://8bitnova.github.io/images/429.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "flip-knife",
+    "thumbnail": "https://8bitnova.github.io/images/430.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "super-tank-hero",
+    "thumbnail": "https://8bitnova.github.io/images/431.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "city-banana-man-agent",
+    "thumbnail": "https://8bitnova.github.io/images/432.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "cool-man",
+    "thumbnail": "https://8bitnova.github.io/images/433.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "zombie-chase",
+    "thumbnail": "https://8bitnova.github.io/images/434.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "world-solitaire-tripeaks-",
+    "thumbnail": "https://8bitnova.github.io/images/435.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "kings-and-queens-match-2",
+    "thumbnail": "https://8bitnova.github.io/images/436.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "jelly-block-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/437.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "thread-sort",
+    "thumbnail": "https://8bitnova.github.io/images/438.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bus-driver-simulator-3d",
+    "thumbnail": "https://8bitnova.github.io/images/439.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "merge-home-mania",
+    "thumbnail": "https://8bitnova.github.io/images/440.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "facechart",
+    "thumbnail": "https://8bitnova.github.io/images/441.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "merry-christmas-stickman",
+    "thumbnail": "https://8bitnova.github.io/images/442.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "agent-squad",
+    "thumbnail": "https://8bitnova.github.io/images/443.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "ball-eating-simulator",
+    "thumbnail": "https://8bitnova.github.io/images/444.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "dinosaur-cards",
+    "thumbnail": "https://8bitnova.github.io/images/445.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "muscle-up-master",
+    "thumbnail": "https://8bitnova.github.io/images/446.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "cooking-empire",
+    "thumbnail": "https://8bitnova.github.io/images/447.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "bubble-around",
+    "thumbnail": "https://8bitnova.github.io/images/448.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "carnage-battle-arena",
+    "thumbnail": "https://8bitnova.github.io/images/449.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "last-ufo-defense",
+    "thumbnail": "https://8bitnova.github.io/images/450.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "paint-master",
+    "thumbnail": "https://8bitnova.github.io/images/451.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stickman-guys-defense",
+    "thumbnail": "https://8bitnova.github.io/images/452.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "knock-and-run-100-doors-escape",
+    "thumbnail": "https://8bitnova.github.io/images/453.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "flower-sort",
+    "thumbnail": "https://8bitnova.github.io/images/454.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "break-beat",
+    "thumbnail": "https://8bitnova.github.io/images/455.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "grenade-simulator",
+    "thumbnail": "https://8bitnova.github.io/images/456.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "chessfield",
+    "thumbnail": "https://8bitnova.github.io/images/457.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "meatrider",
+    "thumbnail": "https://8bitnova.github.io/images/458.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "unblock-it-3d",
+    "thumbnail": "https://8bitnova.github.io/images/459.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "snake-hunter",
+    "thumbnail": "https://8bitnova.github.io/images/460.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "mighty-run",
+    "thumbnail": "https://8bitnova.github.io/images/461.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "slinger-block",
+    "thumbnail": "https://8bitnova.github.io/images/462.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "math-duck",
+    "thumbnail": "https://8bitnova.github.io/images/463.webp",
+    "genre": "Cards, Educational"
+  },
+  {
+    "id": "glitch",
+    "thumbnail": "https://8bitnova.github.io/images/464.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "i-am-security",
+    "thumbnail": "https://8bitnova.github.io/images/465.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "woody-tap-block",
+    "thumbnail": "https://8bitnova.github.io/images/466.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hair-stack-3d",
+    "thumbnail": "https://8bitnova.github.io/images/467.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "truck-simulator-arcade-championship",
+    "thumbnail": "https://8bitnova.github.io/images/468.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "bubble-shooter-remastered",
+    "thumbnail": "https://8bitnova.github.io/images/469.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "idle-supermarket-tycoon",
+    "thumbnail": "https://8bitnova.github.io/images/470.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "coe-snake",
+    "thumbnail": "https://8bitnova.github.io/images/471.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "homerun-derby",
+    "thumbnail": "https://8bitnova.github.io/images/472.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "we-will-not-survive",
+    "thumbnail": "https://8bitnova.github.io/images/473.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "meow-block-color-collect",
+    "thumbnail": "https://8bitnova.github.io/images/474.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "childrens-doctor-treating-ears",
+    "thumbnail": "https://8bitnova.github.io/images/475.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "wood-color-block",
+    "thumbnail": "https://8bitnova.github.io/images/476.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "jet-fighter-airplane-racing",
+    "thumbnail": "https://8bitnova.github.io/images/477.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "match-master",
+    "thumbnail": "https://8bitnova.github.io/images/478.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "cargo-skates",
+    "thumbnail": "https://8bitnova.github.io/images/479.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "falling-blocks-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/480.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "super-racing",
+    "thumbnail": "https://8bitnova.github.io/images/481.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "water-junk-warriors",
+    "thumbnail": "https://8bitnova.github.io/images/482.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "spider-noob-obstacle-course",
+    "thumbnail": "https://8bitnova.github.io/images/483.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "big-bad-ape",
+    "thumbnail": "https://8bitnova.github.io/images/484.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "canasta-royale-offline",
+    "thumbnail": "https://8bitnova.github.io/images/485.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "eastern-star-vs-city-style-icon",
+    "thumbnail": "https://8bitnova.github.io/images/486.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "number-master",
+    "thumbnail": "https://8bitnova.github.io/images/487.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bomby",
+    "thumbnail": "https://8bitnova.github.io/images/488.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "riddlemath",
+    "thumbnail": "https://8bitnova.github.io/images/489.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "color-nuts-bolts-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/490.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "squid-game-hunter",
+    "thumbnail": "https://8bitnova.github.io/images/491.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "idle-baseball-tycoon",
+    "thumbnail": "https://8bitnova.github.io/images/492.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "click-click-clicker",
+    "thumbnail": "https://8bitnova.github.io/images/493.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mysterious-familiars-enchanted-bestiary",
+    "thumbnail": "https://8bitnova.github.io/images/494.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "aqua-blitz-2",
+    "thumbnail": "https://8bitnova.github.io/images/495.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "food-tower-defense",
+    "thumbnail": "https://8bitnova.github.io/images/496.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "love-archer",
+    "thumbnail": "https://8bitnova.github.io/images/497.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "grannys-classroom-nightmare",
+    "thumbnail": "https://8bitnova.github.io/images/498.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "turbo-race-3d",
+    "thumbnail": "https://8bitnova.github.io/images/499.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "idle-bathroom-empire-tycoon",
+    "thumbnail": "https://8bitnova.github.io/images/500.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "duet-cats-halloween-cat-music",
+    "thumbnail": "https://8bitnova.github.io/images/501.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cat-chaos-simulator",
+    "thumbnail": "https://8bitnova.github.io/images/502.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "patterns",
+    "thumbnail": "https://8bitnova.github.io/images/503.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "labubu-coloring-adventure",
+    "thumbnail": "https://8bitnova.github.io/images/504.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "sword-and-jewel",
+    "thumbnail": "https://8bitnova.github.io/images/505.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "underwater-survival-deep-dive",
+    "thumbnail": "https://8bitnova.github.io/images/506.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "escape-or-die-troll-devil-levels",
+    "thumbnail": "https://8bitnova.github.io/images/507.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "save-my-pet",
+    "thumbnail": "https://8bitnova.github.io/images/508.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "drop-bricks-breaker",
+    "thumbnail": "https://8bitnova.github.io/images/509.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "obby-1-pet-every-seconds",
+    "thumbnail": "https://8bitnova.github.io/images/510.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "skillful-finger",
+    "thumbnail": "https://8bitnova.github.io/images/511.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "cricket-clash-pong",
+    "thumbnail": "https://8bitnova.github.io/images/512.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "real-motorbike-simulator-race-3d",
+    "thumbnail": "https://8bitnova.github.io/images/513.webp",
+    "genre": "Sports, .IO"
+  },
+  {
+    "id": "solitaire-story-tripeaks-6",
+    "thumbnail": "https://8bitnova.github.io/images/514.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "beach-club",
+    "thumbnail": "https://8bitnova.github.io/images/515.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "queen-of-mahjong",
+    "thumbnail": "https://8bitnova.github.io/images/516.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "cuddle-monster-fusion",
+    "thumbnail": "https://8bitnova.github.io/images/517.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "monster-school-challenge",
+    "thumbnail": "https://8bitnova.github.io/images/518.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "magnet-truck",
+    "thumbnail": "https://8bitnova.github.io/images/519.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "christmas-find-the-differences",
+    "thumbnail": "https://8bitnova.github.io/images/520.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "geometry-arrow",
+    "thumbnail": "https://8bitnova.github.io/images/521.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "ball-dunk-fall",
+    "thumbnail": "https://8bitnova.github.io/images/522.webp",
+    "genre": "Football, Basketball"
+  },
+  {
+    "id": "turbo-stunt-racing",
+    "thumbnail": "https://8bitnova.github.io/images/523.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "chill-clicker",
+    "thumbnail": "https://8bitnova.github.io/images/524.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "cosmic-dash",
+    "thumbnail": "https://8bitnova.github.io/images/525.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "lucky-vegas-blackjack",
+    "thumbnail": "https://8bitnova.github.io/images/526.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "merge-balls-new-years-toys-in-3d",
+    "thumbnail": "https://8bitnova.github.io/images/527.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "egg-adventure-mirror-world",
+    "thumbnail": "https://8bitnova.github.io/images/528.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "hidden-object-street-of-secrets",
+    "thumbnail": "https://8bitnova.github.io/images/529.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pick-brainrot-3d-battle",
+    "thumbnail": "https://8bitnova.github.io/images/530.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "baling-bum",
+    "thumbnail": "https://8bitnova.github.io/images/531.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "anime-doll-diy-cosplay-girl",
+    "thumbnail": "https://8bitnova.github.io/images/532.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mech-monster-arena",
+    "thumbnail": "https://8bitnova.github.io/images/533.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "pixel-number-diy-coloring",
+    "thumbnail": "https://8bitnova.github.io/images/534.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-3d-match-3-balloons",
+    "thumbnail": "https://8bitnova.github.io/images/535.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "brainrot-memory",
+    "thumbnail": "https://8bitnova.github.io/images/536.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "falling-man",
+    "thumbnail": "https://8bitnova.github.io/images/537.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cool-cars-racing-at-altitude",
+    "thumbnail": "https://8bitnova.github.io/images/538.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "mecha-duel",
+    "thumbnail": "https://8bitnova.github.io/images/539.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "woody-hexa",
+    "thumbnail": "https://8bitnova.github.io/images/540.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "toy-cars-3d-racing",
+    "thumbnail": "https://8bitnova.github.io/images/541.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "portal-master",
+    "thumbnail": "https://8bitnova.github.io/images/542.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "aliens-hunter",
+    "thumbnail": "https://8bitnova.github.io/images/543.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "stickman-archer-shooting-arrows-at-reds",
+    "thumbnail": "https://8bitnova.github.io/images/544.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "wood-blocks-jam",
+    "thumbnail": "https://8bitnova.github.io/images/545.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mr-reckless-car-chase-simulator",
+    "thumbnail": "https://8bitnova.github.io/images/546.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "vex-x3m-3",
+    "thumbnail": "https://8bitnova.github.io/images/547.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "chain-cube-2048-3d-merge-game",
+    "thumbnail": "https://8bitnova.github.io/images/548.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "drill-quest",
+    "thumbnail": "https://8bitnova.github.io/images/549.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "noob-draw-punch",
+    "thumbnail": "https://8bitnova.github.io/images/550.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "hunt-and-seek",
+    "thumbnail": "https://8bitnova.github.io/images/551.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "terra-craft-world",
+    "thumbnail": "https://8bitnova.github.io/images/552.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "pyramidz2",
+    "thumbnail": "https://8bitnova.github.io/images/553.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "digital-aqua",
+    "thumbnail": "https://8bitnova.github.io/images/554.webp",
+    "genre": "Art, Care"
+  },
+  {
+    "id": "archer-go",
+    "thumbnail": "https://8bitnova.github.io/images/555.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "passenger-sort",
+    "thumbnail": "https://8bitnova.github.io/images/556.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "idle-hotel-empire",
+    "thumbnail": "https://8bitnova.github.io/images/557.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tap-away",
+    "thumbnail": "https://8bitnova.github.io/images/558.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-fever-blast",
+    "thumbnail": "https://8bitnova.github.io/images/559.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "royal-crown-blast",
+    "thumbnail": "https://8bitnova.github.io/images/560.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "nsr-street-car-racing",
+    "thumbnail": "https://8bitnova.github.io/images/561.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "chain-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/562.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "butterfly-kyodai-rainbow",
+    "thumbnail": "https://8bitnova.github.io/images/563.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "mermaidcore-aesthetics",
+    "thumbnail": "https://8bitnova.github.io/images/564.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "bus-stop-color-jam",
+    "thumbnail": "https://8bitnova.github.io/images/565.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mega-ramp-bike-racing-tracks",
+    "thumbnail": "https://8bitnova.github.io/images/566.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "pet-connect-match",
+    "thumbnail": "https://8bitnova.github.io/images/567.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "color-dash",
+    "thumbnail": "https://8bitnova.github.io/images/568.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mind-gambit",
+    "thumbnail": "https://8bitnova.github.io/images/569.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "bolts-and-nuts-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/570.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ocean-rescue",
+    "thumbnail": "https://8bitnova.github.io/images/571.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "merge-cubes-2048-3d",
+    "thumbnail": "https://8bitnova.github.io/images/572.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "bbq-stack-run",
+    "thumbnail": "https://8bitnova.github.io/images/573.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "animal-royal",
+    "thumbnail": "https://8bitnova.github.io/images/574.webp",
+    "genre": "Battle, Cards"
+  },
+  {
+    "id": "on-fire-basketball-shots",
+    "thumbnail": "https://8bitnova.github.io/images/575.webp",
+    "genre": "Puzzle, Basketball"
+  },
+  {
+    "id": "ocean-small-hospital-doctor",
+    "thumbnail": "https://8bitnova.github.io/images/576.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "daycare-tycoon",
+    "thumbnail": "https://8bitnova.github.io/images/577.webp",
+    "genre": "Educational, Simulation"
+  },
+  {
+    "id": "dice-merge",
+    "thumbnail": "https://8bitnova.github.io/images/578.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "rich-choice-run",
+    "thumbnail": "https://8bitnova.github.io/images/579.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "golf-orbit",
+    "thumbnail": "https://8bitnova.github.io/images/580.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "office-brawl-room-smash",
+    "thumbnail": "https://8bitnova.github.io/images/581.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "hidden-object-great-journey",
+    "thumbnail": "https://8bitnova.github.io/images/582.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "football-stars-championship",
+    "thumbnail": "https://8bitnova.github.io/images/583.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "stickman-vs-zombies-worldcraft",
+    "thumbnail": "https://8bitnova.github.io/images/584.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "onet-mahjong-connect",
+    "thumbnail": "https://8bitnova.github.io/images/585.webp",
+    "genre": "Agility, Mahjong & Connect"
+  },
+  {
+    "id": "italian-brainrot-bomb-2player",
+    "thumbnail": "https://8bitnova.github.io/images/586.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "real-street-fighter-3d",
+    "thumbnail": "https://8bitnova.github.io/images/587.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "escape-steal-brainrot-sahur-hills",
+    "thumbnail": "https://8bitnova.github.io/images/588.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "cs-command-snipers",
+    "thumbnail": "https://8bitnova.github.io/images/589.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "zoo-anomaly-simulation",
+    "thumbnail": "https://8bitnova.github.io/images/590.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "summer-maze",
+    "thumbnail": "https://8bitnova.github.io/images/591.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "screamals",
+    "thumbnail": "https://8bitnova.github.io/images/592.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pet-doctor-business-tycoon-pet-care-game",
+    "thumbnail": "https://8bitnova.github.io/images/593.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "sticker-jam-peel-off-match",
+    "thumbnail": "https://8bitnova.github.io/images/594.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pacxon-new-realms",
+    "thumbnail": "https://8bitnova.github.io/images/595.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "block-blast-jewel-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/596.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ultimate-destruction-simulator",
+    "thumbnail": "https://8bitnova.github.io/images/597.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "mahjong-connect-majong-class",
+    "thumbnail": "https://8bitnova.github.io/images/598.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "shop-sorting-2",
+    "thumbnail": "https://8bitnova.github.io/images/599.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bridge-fight",
+    "thumbnail": "https://8bitnova.github.io/images/600.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hungry-noob-cafe-simulator",
+    "thumbnail": "https://8bitnova.github.io/images/601.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "stickman-halloween-survive",
+    "thumbnail": "https://8bitnova.github.io/images/602.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "cannons-blast-3d",
+    "thumbnail": "https://8bitnova.github.io/images/603.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "obby-prison-craft-escape",
+    "thumbnail": "https://8bitnova.github.io/images/604.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "elevator-fight",
+    "thumbnail": "https://8bitnova.github.io/images/605.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "uphill-rush-13",
+    "thumbnail": "https://8bitnova.github.io/images/606.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hidden-pairs-mahjong",
+    "thumbnail": "https://8bitnova.github.io/images/607.webp",
+    "genre": "Agility, Mahjong & Connect"
+  },
+  {
+    "id": "fish-shooting-fish-hunter",
+    "thumbnail": "https://8bitnova.github.io/images/608.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "fast-lap",
+    "thumbnail": "https://8bitnova.github.io/images/609.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "egg-adventure-2",
+    "thumbnail": "https://8bitnova.github.io/images/610.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "special-holiday-solitaire",
+    "thumbnail": "https://8bitnova.github.io/images/611.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "cross-connect-word",
+    "thumbnail": "https://8bitnova.github.io/images/612.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "bubble-shooter-go",
+    "thumbnail": "https://8bitnova.github.io/images/613.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "harbor-operator",
+    "thumbnail": "https://8bitnova.github.io/images/614.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mahjong-connect-gold",
+    "thumbnail": "https://8bitnova.github.io/images/615.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "wacky-strike",
+    "thumbnail": "https://8bitnova.github.io/images/616.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "zombies-and-guns",
+    "thumbnail": "https://8bitnova.github.io/images/617.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "nine-cards-of-winter",
+    "thumbnail": "https://8bitnova.github.io/images/618.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "bears-vs-art",
+    "thumbnail": "https://8bitnova.github.io/images/619.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "elementz",
+    "thumbnail": "https://8bitnova.github.io/images/620.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "emoji-match",
+    "thumbnail": "https://8bitnova.github.io/images/621.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "hangman-saga",
+    "thumbnail": "https://8bitnova.github.io/images/622.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "real-motorbike-super-hero-stunt-3d",
+    "thumbnail": "https://8bitnova.github.io/images/623.webp",
+    "genre": "Racing & Driving, .IO"
+  },
+  {
+    "id": "extreme-real-car-driving-2025",
+    "thumbnail": "https://8bitnova.github.io/images/624.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "merge-heroes",
+    "thumbnail": "https://8bitnova.github.io/images/625.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "superpixelint",
+    "thumbnail": "https://8bitnova.github.io/images/626.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "unlock-the-bolts",
+    "thumbnail": "https://8bitnova.github.io/images/627.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "strike-breakout",
+    "thumbnail": "https://8bitnova.github.io/images/628.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "hexa-sort-trick-or-treat",
+    "thumbnail": "https://8bitnova.github.io/images/629.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bunnys-farm",
+    "thumbnail": "https://8bitnova.github.io/images/630.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "royal-pin",
+    "thumbnail": "https://8bitnova.github.io/images/631.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "pop-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/632.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "barrel-roller-amazing-runner",
+    "thumbnail": "https://8bitnova.github.io/images/633.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "emoji-guess",
+    "thumbnail": "https://8bitnova.github.io/images/634.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "maze-craze",
+    "thumbnail": "https://8bitnova.github.io/images/635.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "snakemaxx",
+    "thumbnail": "https://8bitnova.github.io/images/636.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "badlands-hero",
+    "thumbnail": "https://8bitnova.github.io/images/637.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "happy-town",
+    "thumbnail": "https://8bitnova.github.io/images/638.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "off-road-overdrive",
+    "thumbnail": "https://8bitnova.github.io/images/639.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "bublix-bubble-hit",
+    "thumbnail": "https://8bitnova.github.io/images/640.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "block-puzzle-cats",
+    "thumbnail": "https://8bitnova.github.io/images/641.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "blocksss",
+    "thumbnail": "https://8bitnova.github.io/images/642.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "word-connect-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/643.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "wonders-of-egypt-mahjong",
+    "thumbnail": "https://8bitnova.github.io/images/644.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "phone-case-diy-5",
+    "thumbnail": "https://8bitnova.github.io/images/645.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "eq-test-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/646.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "animal-link",
+    "thumbnail": "https://8bitnova.github.io/images/647.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "100-rooms-escape",
+    "thumbnail": "https://8bitnova.github.io/images/648.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "texas-holdem-poker",
+    "thumbnail": "https://8bitnova.github.io/images/649.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "mr-long-legs",
+    "thumbnail": "https://8bitnova.github.io/images/650.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "conquerio",
+    "thumbnail": "https://8bitnova.github.io/images/651.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "space-blast",
+    "thumbnail": "https://8bitnova.github.io/images/652.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "sea-lords",
+    "thumbnail": "https://8bitnova.github.io/images/653.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "palkovil-the-way-home",
+    "thumbnail": "https://8bitnova.github.io/images/654.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "dino-ranch",
+    "thumbnail": "https://8bitnova.github.io/images/655.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "fish-rain-2",
+    "thumbnail": "https://8bitnova.github.io/images/656.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "square-punki-long-hand",
+    "thumbnail": "https://8bitnova.github.io/images/657.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "solitaire-klondike-eternal-russian-classic",
+    "thumbnail": "https://8bitnova.github.io/images/658.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "isometric-escape",
+    "thumbnail": "https://8bitnova.github.io/images/659.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "zombie-monster-survivors",
+    "thumbnail": "https://8bitnova.github.io/images/660.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "dot-by-dot",
+    "thumbnail": "https://8bitnova.github.io/images/661.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "shadowman-runner",
+    "thumbnail": "https://8bitnova.github.io/images/662.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "one-hero",
+    "thumbnail": "https://8bitnova.github.io/images/663.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "thief-stick-puzzle-man-escape",
+    "thumbnail": "https://8bitnova.github.io/images/664.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "epic-car-stunt-race-obby",
+    "thumbnail": "https://8bitnova.github.io/images/665.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "cinema-business-idle-games",
+    "thumbnail": "https://8bitnova.github.io/images/666.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "cube-speed-dash",
+    "thumbnail": "https://8bitnova.github.io/images/667.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "flick-n-bounce",
+    "thumbnail": "https://8bitnova.github.io/images/668.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hero-transform-run",
+    "thumbnail": "https://8bitnova.github.io/images/669.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "love-tile-trio",
+    "thumbnail": "https://8bitnova.github.io/images/670.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "slidee",
+    "thumbnail": "https://8bitnova.github.io/images/671.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "kitkat-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/672.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fill-the-bottle",
+    "thumbnail": "https://8bitnova.github.io/images/673.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hamstercycle",
+    "thumbnail": "https://8bitnova.github.io/images/674.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "road-race-3d",
+    "thumbnail": "https://8bitnova.github.io/images/675.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "build-a-queen-2025",
+    "thumbnail": "https://8bitnova.github.io/images/676.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "stickman-ragdoll-playground",
+    "thumbnail": "https://8bitnova.github.io/images/677.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "idle-airport-ceo",
+    "thumbnail": "https://8bitnova.github.io/images/678.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "twinkle-shooter",
+    "thumbnail": "https://8bitnova.github.io/images/679.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "robot-runner-fight",
+    "thumbnail": "https://8bitnova.github.io/images/680.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "ninja-time",
+    "thumbnail": "https://8bitnova.github.io/images/681.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "v-and-n-pizza-cooking-game",
+    "thumbnail": "https://8bitnova.github.io/images/682.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "black-cat-stacking-pop",
+    "thumbnail": "https://8bitnova.github.io/images/683.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dungeon-master-cult-craft",
+    "thumbnail": "https://8bitnova.github.io/images/684.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "devs-simulator",
+    "thumbnail": "https://8bitnova.github.io/images/685.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "avoid-the-spikes",
+    "thumbnail": "https://8bitnova.github.io/images/686.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "head-soccer-arena",
+    "thumbnail": "https://8bitnova.github.io/images/687.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "tb-avataria-life-girl",
+    "thumbnail": "https://8bitnova.github.io/images/688.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "diamond-mosaic",
+    "thumbnail": "https://8bitnova.github.io/images/689.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "sneaker-factory",
+    "thumbnail": "https://8bitnova.github.io/images/690.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "bingo-halloween",
+    "thumbnail": "https://8bitnova.github.io/images/691.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stunt-bike-rider-bros",
+    "thumbnail": "https://8bitnova.github.io/images/692.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "bike-stunt-racing-legend",
+    "thumbnail": "https://8bitnova.github.io/images/693.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "happy-asmr-care",
+    "thumbnail": "https://8bitnova.github.io/images/694.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "poopy-escape-the-prison",
+    "thumbnail": "https://8bitnova.github.io/images/695.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "cannon-merge",
+    "thumbnail": "https://8bitnova.github.io/images/696.webp",
+    "genre": "Battle, Merge"
+  },
+  {
+    "id": "tralala-la-la-la-italiano",
+    "thumbnail": "https://8bitnova.github.io/images/697.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "black-pink-halloween-concert",
+    "thumbnail": "https://8bitnova.github.io/images/698.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "dream-mania-happy-match",
+    "thumbnail": "https://8bitnova.github.io/images/699.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "sprunki-3d-escape",
+    "thumbnail": "https://8bitnova.github.io/images/700.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "plants-vs-zombies-war",
+    "thumbnail": "https://8bitnova.github.io/images/701.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "fighter-stick-hero",
+    "thumbnail": "https://8bitnova.github.io/images/702.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "hotfoot-baseball",
+    "thumbnail": "https://8bitnova.github.io/images/703.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "dice-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/704.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "connect-em-all",
+    "thumbnail": "https://8bitnova.github.io/images/705.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fury-road-zombie-crash",
+    "thumbnail": "https://8bitnova.github.io/images/706.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "holiday-hex-sort",
+    "thumbnail": "https://8bitnova.github.io/images/707.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "super-star-animal-salon",
+    "thumbnail": "https://8bitnova.github.io/images/708.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "backflip-master",
+    "thumbnail": "https://8bitnova.github.io/images/709.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "my-dreamy-flora-fashion-look",
+    "thumbnail": "https://8bitnova.github.io/images/710.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mind-games-math-crosswords",
+    "thumbnail": "https://8bitnova.github.io/images/711.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "daily-jewels-blitz-mahjong",
+    "thumbnail": "https://8bitnova.github.io/images/712.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pixel-shoot",
+    "thumbnail": "https://8bitnova.github.io/images/713.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "geometrix",
+    "thumbnail": "https://8bitnova.github.io/images/714.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "school-simulator-my-school",
+    "thumbnail": "https://8bitnova.github.io/images/715.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "pesky-moles",
+    "thumbnail": "https://8bitnova.github.io/images/716.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "winter-mahjong",
+    "thumbnail": "https://8bitnova.github.io/images/717.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "sand-blast",
+    "thumbnail": "https://8bitnova.github.io/images/718.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tower-stack-2026",
+    "thumbnail": "https://8bitnova.github.io/images/719.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-blitz-galaxy",
+    "thumbnail": "https://8bitnova.github.io/images/720.webp",
+    "genre": "Bubble Shooter, Match-3"
+  },
+  {
+    "id": "archery-ragdoll",
+    "thumbnail": "https://8bitnova.github.io/images/721.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "small-wardrobe",
+    "thumbnail": "https://8bitnova.github.io/images/722.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "ropeway-master",
+    "thumbnail": "https://8bitnova.github.io/images/723.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "save-my-hero",
+    "thumbnail": "https://8bitnova.github.io/images/724.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "sort-and-style-back-to-school",
+    "thumbnail": "https://8bitnova.github.io/images/725.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "cleaning-simulator",
+    "thumbnail": "https://8bitnova.github.io/images/726.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "dragon-island-idle-3d",
+    "thumbnail": "https://8bitnova.github.io/images/727.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gym-muscle-merge-tycoon",
+    "thumbnail": "https://8bitnova.github.io/images/728.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "hole-eat-grow-attack",
+    "thumbnail": "https://8bitnova.github.io/images/729.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "fun-town-parking",
+    "thumbnail": "https://8bitnova.github.io/images/730.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "tung-tung-sahur-in-geometry-dash",
+    "thumbnail": "https://8bitnova.github.io/images/731.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "police-chase-drifter",
+    "thumbnail": "https://8bitnova.github.io/images/732.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "pumpking-vs-mummy",
+    "thumbnail": "https://8bitnova.github.io/images/733.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "lovie-chics-coachella-festival",
+    "thumbnail": "https://8bitnova.github.io/images/734.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "office-knight-3d-castle-defense",
+    "thumbnail": "https://8bitnova.github.io/images/735.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "screw-jam",
+    "thumbnail": "https://8bitnova.github.io/images/736.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "no-pain-no-gain-ragdoll-sandbox",
+    "thumbnail": "https://8bitnova.github.io/images/737.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "farm-mahjong-3d",
+    "thumbnail": "https://8bitnova.github.io/images/738.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "emoji-sort-fun-puzzle-game",
+    "thumbnail": "https://8bitnova.github.io/images/739.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "animal-racing-idle-park",
+    "thumbnail": "https://8bitnova.github.io/images/740.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "extreme-car-driving-simulator",
+    "thumbnail": "https://8bitnova.github.io/images/741.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "emoji-merge-fun-moji",
+    "thumbnail": "https://8bitnova.github.io/images/742.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "angry-city-smasher",
+    "thumbnail": "https://8bitnova.github.io/images/743.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "gun-builder",
+    "thumbnail": "https://8bitnova.github.io/images/744.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "sky-balls-3d",
+    "thumbnail": "https://8bitnova.github.io/images/745.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "stack-sorting",
+    "thumbnail": "https://8bitnova.github.io/images/746.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "zero-to-millionaire",
+    "thumbnail": "https://8bitnova.github.io/images/747.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "lol-surprise-game-zone",
+    "thumbnail": "https://8bitnova.github.io/images/748.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "solitaire-tail",
+    "thumbnail": "https://8bitnova.github.io/images/749.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "car-out-jam",
+    "thumbnail": "https://8bitnova.github.io/images/750.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pixel-path",
+    "thumbnail": "https://8bitnova.github.io/images/751.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "real-drive-3d",
+    "thumbnail": "https://8bitnova.github.io/images/752.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "sprunki-lava-escape-2player",
+    "thumbnail": "https://8bitnova.github.io/images/753.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "ellie-and-ben-christmas-eve",
+    "thumbnail": "https://8bitnova.github.io/images/754.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "pretty-sheep-run",
+    "thumbnail": "https://8bitnova.github.io/images/755.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "granny-2-asylum-horror-house",
+    "thumbnail": "https://8bitnova.github.io/images/756.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "agent-zero-infiltration",
+    "thumbnail": "https://8bitnova.github.io/images/757.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "machine-city-balls",
+    "thumbnail": "https://8bitnova.github.io/images/758.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "wednesday-light-academia",
+    "thumbnail": "https://8bitnova.github.io/images/759.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "gomu-goman",
+    "thumbnail": "https://8bitnova.github.io/images/760.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "save-the-sheep",
+    "thumbnail": "https://8bitnova.github.io/images/761.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "brainrot-evolution",
+    "thumbnail": "https://8bitnova.github.io/images/762.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "brawl-bros-squad",
+    "thumbnail": "https://8bitnova.github.io/images/763.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "tank-stars",
+    "thumbnail": "https://8bitnova.github.io/images/764.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "power-light",
+    "thumbnail": "https://8bitnova.github.io/images/765.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mojicon-garden-connect",
+    "thumbnail": "https://8bitnova.github.io/images/766.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "xmas-presents-mahjong",
+    "thumbnail": "https://8bitnova.github.io/images/767.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "jump-up-3d-basketball-game",
+    "thumbnail": "https://8bitnova.github.io/images/768.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "idle-dice-3d-incremental-game",
+    "thumbnail": "https://8bitnova.github.io/images/769.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "racing-ball-adventure",
+    "thumbnail": "https://8bitnova.github.io/images/770.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "cornhole-league-board-games",
+    "thumbnail": "https://8bitnova.github.io/images/771.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "inspector-cat",
+    "thumbnail": "https://8bitnova.github.io/images/772.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hidden-object-girl-and-cat",
+    "thumbnail": "https://8bitnova.github.io/images/773.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "formula-racing-games-car-game",
+    "thumbnail": "https://8bitnova.github.io/images/774.webp",
+    "genre": "Sports, .IO"
+  },
+  {
+    "id": "slippery-drift-racing",
+    "thumbnail": "https://8bitnova.github.io/images/775.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "arrow-escape-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/776.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "from-nerd-to-popular-ballerina-cappuccina",
+    "thumbnail": "https://8bitnova.github.io/images/777.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "stardom-alt-girls-fashion-duel",
+    "thumbnail": "https://8bitnova.github.io/images/778.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "bubble-shooter-pro-4",
+    "thumbnail": "https://8bitnova.github.io/images/779.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "jump-man",
+    "thumbnail": "https://8bitnova.github.io/images/780.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "glacier-rush",
+    "thumbnail": "https://8bitnova.github.io/images/781.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "through-the-wall",
+    "thumbnail": "https://8bitnova.github.io/images/782.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "build-an-aquapark",
+    "thumbnail": "https://8bitnova.github.io/images/783.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "mojicon-spring-connect",
+    "thumbnail": "https://8bitnova.github.io/images/784.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "spiderlox-theme-park-battle",
+    "thumbnail": "https://8bitnova.github.io/images/785.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "3d-basketballio-dunk-sport",
+    "thumbnail": "https://8bitnova.github.io/images/786.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "lovely-cat-pet-life",
+    "thumbnail": "https://8bitnova.github.io/images/787.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "reach-2048",
+    "thumbnail": "https://8bitnova.github.io/images/788.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "yarn-fever-unravel-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/789.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cookie-land",
+    "thumbnail": "https://8bitnova.github.io/images/790.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "2-cars-run",
+    "thumbnail": "https://8bitnova.github.io/images/791.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "fnf-unblocked-italian-brainrot",
+    "thumbnail": "https://8bitnova.github.io/images/792.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bloxorz-block-puzzle-3d",
+    "thumbnail": "https://8bitnova.github.io/images/793.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "move-the-rubber-bands-logic-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/794.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "untwist-road",
+    "thumbnail": "https://8bitnova.github.io/images/795.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jigsaw-m",
+    "thumbnail": "https://8bitnova.github.io/images/796.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "arrow-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/797.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "russian-treasure-hunter",
+    "thumbnail": "https://8bitnova.github.io/images/798.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "idle-merge-car-and-race",
+    "thumbnail": "https://8bitnova.github.io/images/799.webp",
+    "genre": "Strategy, Merge"
+  },
+  {
+    "id": "the-basement-isnt-that-haunted",
+    "thumbnail": "https://8bitnova.github.io/images/800.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "wild-hunting-clash",
+    "thumbnail": "https://8bitnova.github.io/images/801.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "help-the-duck",
+    "thumbnail": "https://8bitnova.github.io/images/802.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-tea",
+    "thumbnail": "https://8bitnova.github.io/images/803.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "impostor-among-us-escape-from-prison",
+    "thumbnail": "https://8bitnova.github.io/images/804.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "merge-brick-breaker",
+    "thumbnail": "https://8bitnova.github.io/images/805.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dont-panic-dude",
+    "thumbnail": "https://8bitnova.github.io/images/806.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "parking-master-urban-challenges",
+    "thumbnail": "https://8bitnova.github.io/images/807.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "draw-brige-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/808.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "zombie-drift-3d",
+    "thumbnail": "https://8bitnova.github.io/images/809.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "slide-block-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/810.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "labubu-merge",
+    "thumbnail": "https://8bitnova.github.io/images/811.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "fun-mini-games-for-kids",
+    "thumbnail": "https://8bitnova.github.io/images/812.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "balloon-pop-frenzy",
+    "thumbnail": "https://8bitnova.github.io/images/813.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "escape-the-horror-craft",
+    "thumbnail": "https://8bitnova.github.io/images/814.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "asmr-makeover-makeup-studio",
+    "thumbnail": "https://8bitnova.github.io/images/815.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "monster-squad-rush",
+    "thumbnail": "https://8bitnova.github.io/images/816.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "smartle",
+    "thumbnail": "https://8bitnova.github.io/images/817.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "puzzle-lines-and-knots-1",
+    "thumbnail": "https://8bitnova.github.io/images/818.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "squid-challenge-play-to-survive",
+    "thumbnail": "https://8bitnova.github.io/images/819.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "neon-blast",
+    "thumbnail": "https://8bitnova.github.io/images/820.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "swat-cats-shooter",
+    "thumbnail": "https://8bitnova.github.io/images/821.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "dead-brain",
+    "thumbnail": "https://8bitnova.github.io/images/822.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "wild-race-master-3d",
+    "thumbnail": "https://8bitnova.github.io/images/823.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "jail-prison-van-police-game",
+    "thumbnail": "https://8bitnova.github.io/images/824.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "grow-warsio",
+    "thumbnail": "https://8bitnova.github.io/images/825.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "onet-monster-book",
+    "thumbnail": "https://8bitnova.github.io/images/826.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "football-heads-2025",
+    "thumbnail": "https://8bitnova.github.io/images/827.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "touchdown-master",
+    "thumbnail": "https://8bitnova.github.io/images/828.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "wave-chic-ocean-fashion-frenzy",
+    "thumbnail": "https://8bitnova.github.io/images/829.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "block-puzzle-king",
+    "thumbnail": "https://8bitnova.github.io/images/830.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "blue-girls-makeup",
+    "thumbnail": "https://8bitnova.github.io/images/831.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "vibrant-hearts-glamour-vs-punk",
+    "thumbnail": "https://8bitnova.github.io/images/832.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "brotherfollow-me-merge-men",
+    "thumbnail": "https://8bitnova.github.io/images/833.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "brainrot-world-holeio",
+    "thumbnail": "https://8bitnova.github.io/images/834.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "burger-tycoon",
+    "thumbnail": "https://8bitnova.github.io/images/835.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "mega-ramp-car",
+    "thumbnail": "https://8bitnova.github.io/images/836.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "home-pin-1",
+    "thumbnail": "https://8bitnova.github.io/images/837.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ragdoll-jump",
+    "thumbnail": "https://8bitnova.github.io/images/838.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tile-hex-world-red-vs-blue",
+    "thumbnail": "https://8bitnova.github.io/images/839.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "daily-wordler",
+    "thumbnail": "https://8bitnova.github.io/images/840.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "steal-brainrot-duel",
+    "thumbnail": "https://8bitnova.github.io/images/841.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "portal-hop",
+    "thumbnail": "https://8bitnova.github.io/images/842.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hill-climb-truck-transform-adventure",
+    "thumbnail": "https://8bitnova.github.io/images/843.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "obby-parkour-racing",
+    "thumbnail": "https://8bitnova.github.io/images/844.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "addiction-solitaire",
+    "thumbnail": "https://8bitnova.github.io/images/845.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "dogs-spot-the-differences",
+    "thumbnail": "https://8bitnova.github.io/images/846.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "alien-intelligence-test",
+    "thumbnail": "https://8bitnova.github.io/images/847.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "easter-shadow-match",
+    "thumbnail": "https://8bitnova.github.io/images/848.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "devil-duck-not-a-troll-game",
+    "thumbnail": "https://8bitnova.github.io/images/849.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "bffs-luxury-loungewear",
+    "thumbnail": "https://8bitnova.github.io/images/850.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "wild-west-match",
+    "thumbnail": "https://8bitnova.github.io/images/851.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "bubble-shooter-pop",
+    "thumbnail": "https://8bitnova.github.io/images/852.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "bitball",
+    "thumbnail": "https://8bitnova.github.io/images/853.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "paperly-paper-plane-adventure",
+    "thumbnail": "https://8bitnova.github.io/images/854.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "erase-the-extra-element",
+    "thumbnail": "https://8bitnova.github.io/images/855.webp",
+    "genre": "Puzzle, Art"
+  },
+  {
+    "id": "merge-run-battle",
+    "thumbnail": "https://8bitnova.github.io/images/856.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "grass-land",
+    "thumbnail": "https://8bitnova.github.io/images/857.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "2048-puzzle-connect-the-balls",
+    "thumbnail": "https://8bitnova.github.io/images/858.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "bubble-race-party",
+    "thumbnail": "https://8bitnova.github.io/images/859.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "flick-baseball-super-homerun",
+    "thumbnail": "https://8bitnova.github.io/images/860.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "galactic-golf-solitaire",
+    "thumbnail": "https://8bitnova.github.io/images/861.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "nugget-man-survival-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/862.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "doodle-dino-run",
+    "thumbnail": "https://8bitnova.github.io/images/863.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "zombie-redemption",
+    "thumbnail": "https://8bitnova.github.io/images/864.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "roof-car-stunt",
+    "thumbnail": "https://8bitnova.github.io/images/865.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "twilight-solitaire-tripeaks",
+    "thumbnail": "https://8bitnova.github.io/images/866.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "asmr-pet-treatment",
+    "thumbnail": "https://8bitnova.github.io/images/867.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "crazy-motorcycle",
+    "thumbnail": "https://8bitnova.github.io/images/868.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "magic-sort",
+    "thumbnail": "https://8bitnova.github.io/images/869.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "army-defence-dino-shoot",
+    "thumbnail": "https://8bitnova.github.io/images/870.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "hide-seek-go-and-find",
+    "thumbnail": "https://8bitnova.github.io/images/871.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "butterfly-triple",
+    "thumbnail": "https://8bitnova.github.io/images/872.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "antistress-simulator-of-sequins-diy",
+    "thumbnail": "https://8bitnova.github.io/images/873.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "boost-your-brain",
+    "thumbnail": "https://8bitnova.github.io/images/874.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "italian-brainrot-bike-rush",
+    "thumbnail": "https://8bitnova.github.io/images/875.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "super-kid-adventure",
+    "thumbnail": "https://8bitnova.github.io/images/876.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "real-driving-simulator",
+    "thumbnail": "https://8bitnova.github.io/images/877.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "big-block-blast",
+    "thumbnail": "https://8bitnova.github.io/images/878.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "atlantic-sky-hunter-xtreme",
+    "thumbnail": "https://8bitnova.github.io/images/879.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "twisted-rope",
+    "thumbnail": "https://8bitnova.github.io/images/880.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "makeup-stack",
+    "thumbnail": "https://8bitnova.github.io/images/881.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "superhero-transform-change-race",
+    "thumbnail": "https://8bitnova.github.io/images/882.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "mega-escape-car-parking-puzzle",
+    "thumbnail": "https://8bitnova.github.io/images/883.webp",
+    "genre": "Puzzle, .IO"
+  },
+  {
+    "id": "worms",
+    "thumbnail": "https://8bitnova.github.io/images/884.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "superwings-colorswitch",
+    "thumbnail": "https://8bitnova.github.io/images/885.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "draw-a-path-to-the-finish-line",
+    "thumbnail": "https://8bitnova.github.io/images/886.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "alphabet-lore-maze",
+    "thumbnail": "https://8bitnova.github.io/images/887.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "2048-number-match",
+    "thumbnail": "https://8bitnova.github.io/images/888.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dan-the-man",
+    "thumbnail": "https://8bitnova.github.io/images/889.webp",
+    "genre": "Adventure"
+  }
+]
